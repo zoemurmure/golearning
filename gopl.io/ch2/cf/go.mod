@@ -1,4 +1,4 @@
-module cf
+module gopl.io/ch2/cf
 
 go 1.17
 

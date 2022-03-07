@@ -1,4 +1,4 @@
-module helloworld
+module github.com/zoemurmure/helloworld
 
 go 1.17
 
